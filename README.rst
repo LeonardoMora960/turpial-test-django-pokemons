@@ -84,7 +84,7 @@ installed and activated:
 
 ::
 
-    $ git clone https://github.com/LeonardoMora960/Turpial-test-django-pokemons.git
+    $ git clone https://github.com/lefhiro-s/Turpial-test-django-pokemons.git
     $ cd Turpial-test-django-pokemons
 
     # 	configure database settings
