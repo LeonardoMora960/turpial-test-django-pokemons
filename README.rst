@@ -84,7 +84,7 @@ installed and activated:
 
 ::
 
-    $ git clone https://github.com/lefhiro-s/Turpial-test-django-pokemons.git
+    $ git clone https://github.com/lefhiro-s/test-api-django-pokemons.git
     $ cd Turpial-test-django-pokemons
 
     # 	configure database settings
@@ -97,7 +97,7 @@ installed and activated:
 	        'DATABASE_PORT' : 'port previously configured in postgreSQL'
           
         run located in the app folder
-		      example: (~/my_env/Turpial-test-django-pokemons)
+		      example: (~/my_env/test-api-django-pokemons)
 
     $ python3 makemigrations pokemon
     $ python3 migrate
